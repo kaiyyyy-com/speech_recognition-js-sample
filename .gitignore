@@ -1,0 +1,6 @@
+*.DS_Store
+/src/*
+!/src/Streaming.js
+!/src/ConnectRequest.js
+!/src/sample.json
+/node_modules/*
